@@ -1,0 +1,3 @@
+The OS/2 port functions exactly the same way as the other versions, with one minor exception. The OS/2 port does not encrypt it's passwords, which will appear as plain-text in the user.d files. No additional modifications should be needed to the code.
+
+-Steven
